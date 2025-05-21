@@ -1,0 +1,108 @@
+[2025-04-19 04:59:49,155][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-19 04:59:49,186][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-19 04:59:49,262][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-21 22:22:06,902][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-21 22:22:06,935][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-21 22:22:07,011][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-21 22:25:11,543][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-21 22:25:11,552][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-21 22:25:11,632][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-21 22:28:17,977][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-21 22:28:18,012][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-21 22:28:18,089][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-21 22:31:23,727][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-21 22:31:23,758][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-21 22:31:23,841][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-21 22:34:29,169][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-21 22:34:29,198][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-21 22:34:29,270][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-21 22:37:34,258][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-21 22:37:34,268][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-21 22:37:34,348][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-21 22:40:39,895][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-21 22:40:39,926][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-21 22:40:40,000][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-21 22:43:48,069][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-21 22:43:48,099][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-21 22:43:48,177][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-21 22:47:00,060][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-21 22:47:00,091][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-21 22:47:00,172][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-21 22:50:05,362][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-21 22:50:05,396][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-21 22:50:05,478][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-21 22:53:11,676][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-21 22:53:11,685][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-21 22:53:11,758][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 08:22:49,972][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 08:22:49,982][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 08:22:50,054][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 08:26:04,557][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 08:26:04,567][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 08:26:04,644][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 08:29:19,580][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 08:29:19,590][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 08:29:19,667][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 08:32:34,523][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 08:32:34,531][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 08:32:34,608][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 08:35:34,828][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 08:35:34,838][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 08:35:34,915][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 08:35:48,115][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 08:35:48,147][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 08:35:48,231][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 09:48:43,723][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 09:48:43,723][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 09:48:43,780][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 09:48:43,780][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 09:48:44,245][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 09:48:44,245][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 09:50:24,355][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 09:50:24,364][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 09:50:24,467][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 11:52:44,265][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 11:52:44,295][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 11:52:44,379][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 12:38:26,009][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 12:38:26,038][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 12:38:26,130][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 13:51:09,534][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 13:51:09,543][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 13:51:09,616][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 14:39:52,832][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 14:39:52,863][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 14:39:52,947][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 15:49:25,827][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 15:49:25,860][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 15:49:25,944][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 16:34:12,472][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 16:34:12,481][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 16:34:12,548][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 17:38:59,284][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 17:38:59,294][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 17:38:59,359][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 18:24:15,638][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 18:24:15,672][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 18:24:15,741][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 19:29:50,889][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 19:29:50,919][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 19:29:50,988][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 20:13:24,354][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 20:13:24,386][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 20:13:24,449][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 21:12:49,291][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 21:12:49,323][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 21:12:49,391][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 21:54:28,958][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 21:54:28,991][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 21:54:29,061][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-22 22:56:24,301][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-22 22:56:24,336][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-22 22:56:24,402][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-23 00:44:34,077][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-23 00:44:34,105][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-23 00:44:34,207][absl][INFO] - MuJoCo library version is: 3.2.3
+[2025-04-23 02:24:08,390][absl][INFO] - MUJOCO_GL=egl, attempting to import specified OpenGL backend.
+[2025-04-23 02:24:08,424][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2025-04-23 02:24:08,489][absl][INFO] - MuJoCo library version is: 3.2.3
